@@ -5,6 +5,11 @@
 MedLink is a digital healthcare coordination platform designed to improve communication and resource management between hospitals during emergency situations. The platform enables hospitals to share real-time information about available beds, ambulances, medical resources, and emergency capacity, helping authorities coordinate faster and make better decisions.
 
 ---
+## 🔗 Live Demo
+
+👉 **[Click here to view the live project]()**
+
+---
 
 ## 🌟 Overview
 
